@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Safir-Ines.
-- 👀 I’m interested in  Linux Development, CyberSecurity, and Open Source Projects.
+- 👀 I’m interested in  Linux Development, Web Development, CyberSecurity, AI, and Open Source Projects.
 - 💻 I’m currently learning  Linux from Scratch (LFS) and working on improving my Linux administration skills.
 - ⚡ Fun fact: If it’s not challenging, it’s not interesting.
 
